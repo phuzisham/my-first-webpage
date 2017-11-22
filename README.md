@@ -1,29 +1,24 @@
-# _My First Webpage_
+# Forth Practice Site
 
-#### _First page exercise_
+#### _Created: 08.01.2017_
+#### _Last Modified: 11.21.2017_
 
 #### By _David Hale_
 
 ## Description
 
-_Practice site for Epicodus_
-
-## Setup
-
-* _Open in browser_
-
-## Known Bugs
-
-_none_
+_Fourth site to practice HTML._
 
 ## Support and contact details
 
-_Contact me at david.hale7@gmail.com_
+_If you have questions or run into any issues email me at: david.hale7@gmail.com_
 
 ## Technologies Used
 
-_HTML5_
+_HTML_
 
 ### License
 
-_MIT (c) 2017 David Hale_
+*MIT License*
+
+Copyright (c) 2017 **_David Hale_**
